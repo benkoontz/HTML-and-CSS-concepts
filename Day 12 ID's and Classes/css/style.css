@@ -1,0 +1,12 @@
+
+#emphasis {
+	color: blue;
+}
+
+.emphasis {
+	color: green;
+}
+
+ul:first-of-type li:nth-child(3) {
+	color: orange;
+}
