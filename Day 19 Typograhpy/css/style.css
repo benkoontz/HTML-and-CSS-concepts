@@ -1,0 +1,16 @@
+body {
+	background: blue;
+}
+
+h1 {
+	font-size: 120px;
+	text-align: center;
+	margin-top: 50px;
+	font-family: 'Kreon', serif;;
+	letter-spacing: -1px;
+	color: gray;
+	text-transform: lowercase;
+	text-shadow: 5px 5px 5px red; /* x-axis, y-axis, blur */
+	font-variant: small-caps;
+}
+
