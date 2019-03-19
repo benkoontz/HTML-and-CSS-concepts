@@ -1,0 +1,23 @@
+
+body {
+	margin: 0;
+}
+
+.wrap {
+	width: 800px;
+	height: 1000px;
+	position: relative; /* relative to the web page */
+	margin: auto;
+	background: gray;
+	top: 50px;
+}
+
+.box {
+	width: 70px;
+	height: 70px;
+	margin: auto; 
+	background: red;
+	position: absolute; /* relative to parent position */
+	left: -35px;
+	top: 35px;
+}
